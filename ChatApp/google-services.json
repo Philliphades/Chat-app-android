@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "113947004681",
+    "firebase_url": "https://chat-app-e88a4.firebaseio.com",
+    "project_id": "chat-app-e88a4",
+    "storage_bucket": "chat-app-e88a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113947004681:android:aab904aa242591f3",
+        "android_client_info": {
+          "package_name": "com.trungvu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113947004681-pqfjfi0b67pr554a3ddeth9k1nucnv6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trungvu.chatapp",
+            "certificate_hash": "15a2d859608532d2f24c75789ff9ee0a010eb0e3"
+          }
+        },
+        {
+          "client_id": "113947004681-92l48jaq3ap37gc41atu6044a47krj3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcgOG9CEPb7Wr6O1G967m5PndncbwQ1p0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113947004681-92l48jaq3ap37gc41atu6044a47krj3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

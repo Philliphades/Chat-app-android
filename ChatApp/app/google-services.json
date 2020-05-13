@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619066423249",
+    "firebase_url": "https://chatapp-91b52.firebaseio.com",
+    "project_id": "chatapp-91b52",
+    "storage_bucket": "chatapp-91b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619066423249:android:ffc1530cef1b498cbbd2f0",
+        "android_client_info": {
+          "package_name": "com.trungvu.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619066423249-k6vnd1n4n26kf1rvjv4tcc6rnjrd1r4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDffALl2r4aFb3hoiU2U_IByfcIqmIQd4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619066423249-k6vnd1n4n26kf1rvjv4tcc6rnjrd1r4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
